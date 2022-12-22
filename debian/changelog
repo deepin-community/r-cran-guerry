@@ -1,0 +1,54 @@
+r-cran-guerry (1.7.4-1) unstable; urgency=medium
+
+  * Team Upload.
+  [ Andreas Tille ]
+  * Disable reprotest
+
+  [ Nilesh Patra ]
+  * New upstream version 1.7.4
+
+ -- Nilesh Patra <nilesh@debian.org>  Sat, 09 Oct 2021 14:41:01 +0000
+
+r-cran-guerry (1.7.1-1) unstable; urgency=medium
+
+  * New upstream version
+  * Standards-Version: 4.6.0 (routine-update)
+  * debhelper-compat 13 (routine-update)
+
+ -- Andreas Tille <tille@debian.org>  Mon, 20 Sep 2021 11:10:29 +0200
+
+r-cran-guerry (1.7.0-2) unstable; urgency=medium
+
+  * Add salsa-ci file (routine-update)
+  * Rules-Requires-Root: no (routine-update)
+  * Set upstream metadata fields: Archive, Bug-Database, Bug-Submit,
+    Repository, Repository-Browse.
+
+ -- Andreas Tille <tille@debian.org>  Sun, 17 May 2020 07:11:30 +0200
+
+r-cran-guerry (1.7.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream version
+  * debhelper-compat 12
+  * Standards-Version: 4.5.0
+  * Trim trailing whitespace.
+
+ -- Dylan Aïssi <daissi@debian.org>  Mon, 10 Feb 2020 06:36:34 +0100
+
+r-cran-guerry (1.6-1-2) unstable; urgency=medium
+
+  * Rebuild for R 3.5 transition
+  * debhelper 11
+  * Maintainer: Debian R Packages Maintainers <r-pkg-team@alioth-
+    lists.debian.net>
+  * Point Vcs fields to salsa.debian.org
+  * dh-update-R to update Build-Depends
+
+ -- Andreas Tille <tille@debian.org>  Thu, 31 May 2018 13:29:37 +0200
+
+r-cran-guerry (1.6-1-1) unstable; urgency=medium
+
+  * Initial release (closes: #878577)
+
+ -- Andreas Tille <tille@debian.org>  Sat, 14 Oct 2017 23:05:19 +0200

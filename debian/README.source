@@ -1,0 +1,20 @@
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/Angeville.RData
+Documentation: man/Angeville.Rd
+  Data from d'Angeville (1836) on the population of France
+
+Files: data/gfrance85.RData
+Documentation: man/gfrance85.Rd
+  Map of France in 1830 with the Guerry data, excluding Corsica
+
+Files: data/gfrance.RData
+Documentation: man/gfrance.Rd
+  Map of France in 1830 with the Guerry data
+
+Files: data/Guerry.RData
+Documentation: man/Guerry.Rd
+  Data from A.-M. Guerry, "Essay on the Moral Statistics of France"
+
+ -- Andreas Tille <tille@debian.org>  Sat, 14 Oct 2017 09:00:04 +0200
