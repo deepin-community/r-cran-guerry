@@ -1,0 +1,4 @@
+# See lintian bug #1017966
+r-cran-guerry source: source-is-missing [inst/doc/MultiSpat.html]
+r-cran-guerry source: source-is-missing [inst/doc/guerry-multivariate.html]
+
