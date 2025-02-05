@@ -1,3 +1,26 @@
+r-cran-guerry (1.8.3-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- Andreas Tille <tille@debian.org>  Thu, 09 Nov 2023 19:30:11 +0100
+
+r-cran-guerry (1.8.1-1) unstable; urgency=medium
+
+  * New upstream version
+  * Standards-Version: 4.6.2 (routine-update)
+  * Reorder sequence of d/control fields by cme (routine-update)
+  * lintian-overrides (see lintian bug #1017966)
+
+ -- Andreas Tille <tille@debian.org>  Thu, 22 Jun 2023 14:17:14 +0200
+
+r-cran-guerry (1.8.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * Bump Standards-Version to 4.6.1 (no changes needed)
+  * New upstream version 1.8.0
+
+ -- Nilesh Patra <nilesh@debian.org>  Thu, 13 Oct 2022 22:17:28 +0530
+
 r-cran-guerry (1.7.4-1) unstable; urgency=medium
 
   * Team Upload.
